@@ -1,0 +1,10 @@
+input#file-upload-button
+
+
+
+
+npm i bootstrap --save
+
+
+anguler js
+add the boostrap css
